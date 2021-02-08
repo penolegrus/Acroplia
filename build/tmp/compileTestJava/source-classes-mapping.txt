@@ -1,0 +1,20 @@
+CrudTests/TextPadTests.java
+ CrudTests.TextPadTests
+LoginApi/user/auth/resource/ResponseUserAuth.java
+ LoginApi.user.auth.resource.ResponseUserAuth
+CrudTests/MessageTests.java
+ CrudTests.MessageTests
+LoginApi/common/Device.java
+ LoginApi.common.Device
+LoginApi/common/Roles.java
+ LoginApi.common.Roles
+CrudTests/LoginTests.java
+ CrudTests.LoginTests
+LoginApi/common/User.java
+ LoginApi.common.User
+LoginApi/common/Tokens.java
+ LoginApi.common.Tokens
+LoginApi/Tests.java
+ LoginApi.Tests
+LoginApi/user/auth/resource/UserAuthResource.java
+ LoginApi.user.auth.resource.UserAuthResource
